@@ -12,6 +12,12 @@ DrzakKabelu
 
 Držák kabelù uvnitø profilù z Alupy. Jen se nasune na profil zvenèí.
 
+DrzakVentilatoruZdroje
+----------------------
+
+Držák ventilátoru 80mm ke zdroji od Petra zahradníka. Souèasnì slouží též k
+mechanickému upevnìní zdroje k šasi tiskárny.
+
 DrzakOskyCivky
 --------------
 
