@@ -7,6 +7,11 @@ DrzakDispleje
 Vlastní konstrukce držáku displeje a SD karty s ovládacími prvky po stranì.
 !!!NEDOKONÈENO!!!
 
+DrzakKabelu
+-----------
+
+Držák kabelù uvnitø profilù z Alupy. Jen se nasune na profil zvenèí.
+
 DrzakOskyCivky
 --------------
 
